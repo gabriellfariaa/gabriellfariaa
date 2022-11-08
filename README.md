@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente cursando MBA Data Science e Analytics **com RStudio**
 
-- 🌱 diversos cursos realizados envolvendo **Excel, SQL, PL/SQL, Python, PowerBI, HTML e CSS, Javascript, Relacionamento com Engenharia de dados, analytics e Machine Learning.**
+- 🌱 Diversos cursos realizados envolvendo **Excel, SQL, PL/SQL, Python, PowerBI, HTML e CSS, Javascript, Relacionamento com Engenharia de dados, analytics e Machine Learning.**
 
 - 📫 Me encontre no e-mail **cvgabrielfaria@gmail.com**
 
