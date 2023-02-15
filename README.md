@@ -1,5 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Gabriel Almeida de Faria</h1>
-<h3 align="center">Sou apaixonado por tecnologia reconhecendo que precisamos de uma constante atualização</h3>
+<h1 align="center">Olá, Eu sou Gabriel Almeida de Faria</h1>
 
 - 🔭 Atualmente cursando MBA Data Science e Analytics **com RStudio**
 
