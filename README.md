@@ -1,5 +1,3 @@
-# GABRIEL ALMEIDA DE FARIA
-
 ## Sobre mim
 📫 Me encontre no e-mail cvgabrielfaria@gmail.com
 
