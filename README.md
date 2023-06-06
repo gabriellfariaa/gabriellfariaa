@@ -1,16 +1,18 @@
-<h1 align="center">Olá, Eu sou Gabriel Almeida de Faria</h1>
+# GABRIEL ALMEIDA DE FARIA
 
-- 🔭 Atualmente cursando MBA Data Science e Analytics **com RStudio**
+## Sobre mim
+📫 Me encontre no e-mail cvgabrielfaria@gmail.com
 
-- 🌱 Diversos cursos realizados envolvendo **Excel, SQL, PL/SQL, Python, PowerBI, R,  analytics e Machine Learning.**
+Linkedin  https://www.linkedin.com/in/gabriel-almeida-de-faria/
 
-- 📫 Me encontre no e-mail **cvgabrielfaria@gmail.com**
+Graduado em Engenharia Mecânica, Tecnólogo em projetos de estruturas leves, técnico em mecânica e atualmente cursando MBA Data Science e Analytics.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://br.linkedin.com/in/gabriel-almeida-de-faria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/gabriel-almeida-de-faria" height="30" width="40" /></a>
-<a href="https://instagram.com/gabriel.fariaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel.fariaa" height="30" width="40" /></a>
-</p>
+## Experiência Profissional
+Com +10 anos de experiência em Engenharia de Manufatura e Projetos. Durante esse período, pude implementar soluções em equipe P&D no contexto da indústria 4.0 e com integração dos Institutos ITA e FATEC e utilizando meteodologias ágeis na criação de um conceito de Célula de Manufatura Digital.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Atualmente, estou tendo a oportunidade de desenvolver habilidades além do escopo de projeto, como integrar o setor de manufatura com o setor administrativo, lidando com clientes e fornecedores, desenvolvimento de automações de processos para ganhos de produtividade através de programação em Python, desenvolver Dashboards e aplicabilidade de machine learning na precificação de orçamentos técnicos (in process).
+
+## Habilidades
+Ao longo da minha vida tenho adquirido amplo conhecimento e adquiri um profundo entendimento dos métodos e processos de fabricação de peças de aeronaves. Além disso, fortaleci minhas habilidades em CATIA V5, PLM, Excel, Power BI, Python, SQL, Estatística e Machine Learning.
+
+
